@@ -35,4 +35,4 @@ Download it to your computer before proceeding.
 ### 2. Run in a VM
 #### Example with QEMU:
 ```bash
-qemu-system-x86_64 -hda sam-os.img -m 1024 -vga qxl<(or virtio)> -device virtio-net-pci,netdev=netdev0   
+qemu-system-x86_64 -hda sam-os.img -m 1024 -vga qxl -device virtio-net-pci,netdev=netdev0   
