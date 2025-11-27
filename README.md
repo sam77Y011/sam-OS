@@ -36,9 +36,8 @@ Once development reaches completion, samOS will be ready to serve as a **full pr
 ---
 
 ## 🎯 Project Goals
-samOS is not intended to replace your daily driver OS (yet).  
-Instead, it’s a **fun exploration project** into Linux, kernels, and design philosophy.  
-Think of it as a sandbox for experimenting with ideas 💡.
+samOS is **not yet optimized for daily use on real hardware**.  
+For now, it is recommended to test samOS only inside a **virtual machine** until the kernel and operating system reach full maturity and become ready for everyday use 🛠️.
 
 ---
 
