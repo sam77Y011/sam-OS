@@ -16,7 +16,6 @@ Built on top of **Arch Linux** 🐧, samOS comes with its own official kernel an
 - The **kernel is not yet fully complete**.  
 - For now, samOS is best suited for **testing only**.  
 - Please run it inside a **virtual machine** such as:
-  - VMware  
   - QEMU  
   - VirtualBox  
 
