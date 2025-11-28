@@ -1,0 +1,13 @@
+NAME="Arch Linux sam edition"
+PRETTY_NAME="Arch Linux sam edition"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="I DONT GIVE A FUCK"
+DOCUMENTATION_URL="https://wiki.archlinux.org/"
+SUPPORT_URL="https://bbs.archlinux.org/"
+BUG_REPORT_URL="https://gitlab.archlinux.org/groups/archlinux/-/issues"
+PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+LOGO=sam-e
+IMAGE_ID=sam-e
+IMAGE_VERSION=2025.11.01
