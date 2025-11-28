@@ -48,7 +48,7 @@ Feel free to explore, modify, and share!
 ---
 
 📝 Feedback
-If you encounter any bugs or issues, please report them in the (../../Issues),(../../Discussions) or release comments section 💬.  
+If you encounter any bugs or issues, please report them in the (../../issues), (../../discussions) or release comments section 💬.  
 Your feedback helps the samOS project improve faster and move toward a stable release 🚀.
 
 ---
