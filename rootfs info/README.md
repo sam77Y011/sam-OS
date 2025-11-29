@@ -9,7 +9,7 @@ It does not include the full rootfs image itself — the complete compressed roo
 - **Purpose:** Lightweight and Fast operating system built on Arch Linux principles.  
 
 ## Contents
-- `packages-list` → A list of installed packages included in the rootfs info.  
+- `packages-list` → A list of installed packages included in the rootfs.  
 - Additional notes and metadata about the rootfs build process.  
 
 ## Notes
