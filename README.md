@@ -51,4 +51,4 @@ If you encounter any bugs or issues, please report them in the **[issues](../../
 Your feedback helps the samOS project improve faster and move toward a stable release 🚀.
 
 ---
-Made with ❤️ by **Sam77**
+Made with ❤️ by **Sam**
