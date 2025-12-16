@@ -47,8 +47,19 @@ Feel free to explore, modify, and share!
 ---
 
 📝 Feedback
-If you encounter any bugs or issues, please report them in the [![Static Badge](https://img.shields.io/badge/support-issue-red)](https://github.com/sam77Y011/sam-OS/issues) section 💬.  
+If you encounter any bugs or issues, please report them in the **[issues](../../issues)** section 💬.  
 Your feedback helps the samOS project improve faster and move toward a stable release 🚀.
 
 ---
+
+<h2>
+  <img src="https://cryptologos.cc/logos/tether-usdt-logo.png" width="30" style="vertical-align: top;"/>
+  Donate with tether
+</h2>
+If you enjoy my project, you can support its development with USDT-TRC20 donations.
+
+Wallet Address: **TFT9hPYiY6DUe7TCmpUmApcbUXMzDQXsmp** (USDT-TRC20)
+
+---
+
 Made with ❤️ by **Sam**
