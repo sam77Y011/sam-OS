@@ -47,8 +47,7 @@ Feel free to explore, modify, and share!
 ---
 
 📝 Feedback
-If you encounter any bugs or issues, please report them in the **[![Static Badge](https://img.shields.io/badge/support-issue-red)](https://github.com/sam77Y011/sam-OS/issues)
-** section 💬.  
+If you encounter any bugs or issues, please report them in the [![Static Badge](https://img.shields.io/badge/support-issue-red)](https://github.com/sam77Y011/sam-OS/issues) section 💬.  
 Your feedback helps the samOS project improve faster and move toward a stable release 🚀.
 
 ---
