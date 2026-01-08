@@ -5,6 +5,7 @@ Built on top of **Arch Linux** 🐧, samOS comes with its own official kernel an
 
 ---
 ##some information:
+
 I am really exhausted. Not because of the complexity of this project—it is actually quite simple for me. I am tired because of my current situation. For that reason, I will not be working on this project for a while.
 
 ---
