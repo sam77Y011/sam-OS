@@ -4,7 +4,7 @@ Welcome to **samOS** — a Linux-based operating system project!
 Built on top of **Arch Linux** 🐧, samOS comes with its own official kernel and a focus on speed, simplicity, and modern design.
 
 ---
-##Project CLOSED
+## Project CLOSED
 ---
 
 
